@@ -1,8 +1,8 @@
 # Sinme - Decentralized AI Training Platform
 
-A blockchain-powered decentralized platform for collaborative AI model training
+A decentralized platform based on BNBCHAIN for collaborative artificial intelligence model trainingA blockchain-powered decentralized platform for collaborative AI model training
 
-## 🌟 What is Sinme?
+🌟 What is Sinme?
 
 Sinme is an innovative platform that combines blockchain technology with federated learning to create a decentralized AI model training ecosystem. It enables organizations and individuals to collaboratively train AI models while maintaining data privacy and ensuring fair compensation for contributions.
 
@@ -39,7 +39,6 @@ Sinme is an innovative platform that combines blockchain technology with federat
 - Python 3.8+
 - Node.js 14+
 - Ethereum client (e.g., Ganache)
-
 
 # Clone repository
 
